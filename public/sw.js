@@ -17,6 +17,7 @@ var offlineFundamentals = [
     '/style.css',
     '/jquery.js',
     '/global.js',
+    'data/peta.json',
     'project1/add2numbers.css',
     'project1/add2numbers.js',
     'images/icongogledev.png',
@@ -25,7 +26,7 @@ var offlineFundamentals = [
     'project2/map.css',
     'project2/map.js',
     'project3/peta.css',
-    'project4/peta.js',
+    'project3/peta.js',
 ];
 
 /* The install event fires when the service worker is first installed.
