@@ -3,9 +3,7 @@
 </div>
 
 ---
-
 <p align="center"><strong>WORK IN PROGRESS</strong></p>
-
 ---
 
 ## Features
