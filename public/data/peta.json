@@ -1,0 +1,42 @@
+{
+    "placesreview" : 
+    [
+        {
+             "lokasi": [-8.6221068, 115.1495378],
+             "sponsor" :"<p align='center'><b>Ayam Goreng Suharti</b><br>Lat:-8.6221068 Long:115.1495378 <br><br> Jl. Cokroaminoto, Ubung, Denpasar Utara, Kota Denpasar, Bali 80116</p>",
+             "gambar":"../images/newimg1.jpg",
+             "review": "Really delicious. Trully enjoy the food there. Bought the whole chicken and the taste just like the one in Jogja"
+        },
+        {
+            "lokasi": [-8.6433957, 115.152462],
+            "sponsor" :"<p align='center'><b>Soerabi Bandung Sudirman</b><br>Lat:-8.6433957 Long:115.152462 <br><br> Jl. Jend. Sudirman No.3, Dauh Puri, Denpasar Barat, Kota Denpasar, Bali 80232</p>",
+            "gambar":"../images/newimg2.jpg",
+            "review": "Tasty food of Soerabi. There are so many variations of Soerabi. Cheese and Chocolates, both are my favourite combination. Crowded usually at night."
+        },
+        {
+            "lokasi": [-8.678066, 115.266058],
+            "sponsor" :"<p align='center'><b>Warung Mak Beng</b><br>Lat:-8.678066 Long:115.266058 <br><br> Jl. Hang Tuah No.45, Sanur Kaja, Denpasar Selatan, Sanur Kaja, Denpasar Selatan, Kota Denpasar, Bali 80227</p>",
+            "gambar":"../images/newimg3.jpg",
+            "review": "Best fish with a very unique taste. This what make me always want to go back here. When you buy, you will get 2 kind of fish, the fried one and soup. The soup is best!"
+        },
+        {
+            "lokasi": [-8.799609, 115.228264],
+            "sponsor" :"<p align='center'><b>D'Sambal Nusa Dua</b><br>Lat:-8.799609 Long:115.228264 <br><br> Jl. Bypass Ngurah Rai, Sebelah Traffic Light Taman GriyaJimbaran, Jimbaran, Kuta Selatan, Jimbaran, Kuta Sel., Kabupaten Badung, Bali 80361</p>",
+            "gambar":"../images/newimg4.jpg",
+            "review": "Sambal used to be a condiments, but here, sambal is the main attraction. It taste nice and yummy for you who loves spicy foods. And lot of sambal choices are here to make you sweat.."
+        },
+        {
+            "lokasi": [-8.681178, 115.458249],
+            "sponsor" :"<p align='center'><b>Sandy Bay Resto</b><br>Lat:-8.681178 Long:115.458249 <br><br> Jl. Sandy Bay, Jungutbatu, Nusapenida, Kabupaten Klungkung, Bali 80771</p>",
+            "gambar":"../images/newimg5.jpg",
+            "review": "Great restaurant, fantastic staff, quality food, good drinks, killer location!"
+        },
+        {
+            "lokasi": [-8.541549, 115.3245602],
+            "sponsor" :"<p align='center'><b>Warung Makan Lawar Bebek Pitik Bali</b><br>Lat:-8.541549 Long:115.3245602 <br><br> Pasar Senggol Sari Boga, Gianyar, Kec. Gianyar, Kabupaten Gianyar, Bali 80511</p>",
+            "gambar":"../images/newimg6.jpg",
+            "review": "Nice, nasi ubi,ayam 3potong,telor 1/2,lawar (pokoknya komplit) plus es teh tawar rp32.500..nikmat"
+        } 
+    ]
+}
+    
